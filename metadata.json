@@ -1,0 +1,5 @@
+{
+  "name": "World Bank Data Visualizer",
+  "description": "An application to visualize World Bank economic and social indicators for various countries, enhanced with AI-powered analysis from Gemini.",
+  "requestFramePermissions": []
+}
