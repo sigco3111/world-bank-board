@@ -3,9 +3,9 @@
 
 이 웹 애플리케이션은 사용자가 세계은행 데이터베이스에서 여러 국가와 경제/사회 지표를 선택하여 시계열 데이터를 시각화하고, Google Gemini API를 활용한 AI 기반 비교 분석 리포트를 받아볼 수 있도록 제작되었습니다.
 
-실행주소1 : https://sigco3111.github.io/world-bank-board/
+라이브 데모 : https://sigco3111.github.io/world-bank-board/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-181717?style=for-the-badge&logo=github&logoColor=white)](https://sigco3111.github.io/world-bank-board/)
 
 ## ✨ 주요 기능
 
